@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Web integral\\ExamenApisApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F421AE16-0169-4D7C-91E3-6E9D6EB0E6F3}|ExamenApisApp\\ExamenApisApp.csproj|c:\\web integral\\examenapisapp\\examenapisapp\\controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F421AE16-0169-4D7C-91E3-6E9D6EB0E6F3}|ExamenApisApp\\ExamenApisApp.csproj|solutionrelative:examenapisapp\\controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F421AE16-0169-4D7C-91E3-6E9D6EB0E6F3}|ExamenApisApp\\ExamenApisApp.csproj|c:\\web integral\\examenapisapp\\examenapisapp\\models\\examen2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F421AE16-0169-4D7C-91E3-6E9D6EB0E6F3}|ExamenApisApp\\ExamenApisApp.csproj|solutionrelative:examenapisapp\\models\\examen2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F421AE16-0169-4D7C-91E3-6E9D6EB0E6F3}|ExamenApisApp\\ExamenApisApp.csproj|c:\\web integral\\examenapisapp\\examenapisapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F421AE16-0169-4D7C-91E3-6E9D6EB0E6F3}|ExamenApisApp\\ExamenApisApp.csproj|solutionrelative:examenapisapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F421AE16-0169-4D7C-91E3-6E9D6EB0E6F3}|ExamenApisApp\\ExamenApisApp.csproj|c:\\web integral\\examenapisapp\\examenapisapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F421AE16-0169-4D7C-91E3-6E9D6EB0E6F3}|ExamenApisApp\\ExamenApisApp.csproj|solutionrelative:examenapisapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F421AE16-0169-4D7C-91E3-6E9D6EB0E6F3}|ExamenApisApp\\ExamenApisApp.csproj|c:\\web integral\\examenapisapp\\examenapisapp\\examenapisapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F421AE16-0169-4D7C-91E3-6E9D6EB0E6F3}|ExamenApisApp\\ExamenApisApp.csproj|solutionrelative:examenapisapp\\examenapisapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F421AE16-0169-4D7C-91E3-6E9D6EB0E6F3}|ExamenApisApp\\ExamenApisApp.csproj|c:\\web integral\\examenapisapp\\examenapisapp\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F421AE16-0169-4D7C-91E3-6E9D6EB0E6F3}|ExamenApisApp\\ExamenApisApp.csproj|solutionrelative:examenapisapp\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F421AE16-0169-4D7C-91E3-6E9D6EB0E6F3}|ExamenApisApp\\ExamenApisApp.csproj|c:\\web integral\\examenapisapp\\examenapisapp\\migrations\\20240708015346_se.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F421AE16-0169-4D7C-91E3-6E9D6EB0E6F3}|ExamenApisApp\\ExamenApisApp.csproj|solutionrelative:examenapisapp\\migrations\\20240708015346_se.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoesController.cs",
+              "DocumentMoniker": "C:\\Web integral\\ExamenApisApp\\ExamenApisApp\\Controllers\\ProductoesController.cs",
+              "RelativeDocumentMoniker": "ExamenApisApp\\Controllers\\ProductoesController.cs",
+              "ToolTip": "C:\\Web integral\\ExamenApisApp\\ExamenApisApp\\Controllers\\ProductoesController.cs",
+              "RelativeToolTip": "ExamenApisApp\\Controllers\\ProductoesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGAAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T02:07:10.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240708015346_se.cs",
+              "DocumentMoniker": "C:\\Web integral\\ExamenApisApp\\ExamenApisApp\\Migrations\\20240708015346_se.cs",
+              "RelativeDocumentMoniker": "ExamenApisApp\\Migrations\\20240708015346_se.cs",
+              "ToolTip": "C:\\Web integral\\ExamenApisApp\\ExamenApisApp\\Migrations\\20240708015346_se.cs",
+              "RelativeToolTip": "ExamenApisApp\\Migrations\\20240708015346_se.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T01:53:47.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Web integral\\ExamenApisApp\\ExamenApisApp\\appsettings.json",
+              "RelativeDocumentMoniker": "ExamenApisApp\\appsettings.json",
+              "ToolTip": "C:\\Web integral\\ExamenApisApp\\ExamenApisApp\\appsettings.json",
+              "RelativeToolTip": "ExamenApisApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-08T01:47:46.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Web integral\\ExamenApisApp\\ExamenApisApp\\Program.cs",
+              "RelativeDocumentMoniker": "ExamenApisApp\\Program.cs",
+              "ToolTip": "C:\\Web integral\\ExamenApisApp\\ExamenApisApp\\Program.cs",
+              "RelativeToolTip": "ExamenApisApp\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T01:47:37.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExamenApisApp.http",
+              "DocumentMoniker": "C:\\Web integral\\ExamenApisApp\\ExamenApisApp\\ExamenApisApp.http",
+              "RelativeDocumentMoniker": "ExamenApisApp\\ExamenApisApp.http",
+              "ToolTip": "C:\\Web integral\\ExamenApisApp\\ExamenApisApp\\ExamenApisApp.http",
+              "RelativeToolTip": "ExamenApisApp\\ExamenApisApp.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-08T01:47:35.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Web integral\\ExamenApisApp\\ExamenApisApp\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "ExamenApisApp\\Models\\Producto.cs",
+              "ToolTip": "C:\\Web integral\\ExamenApisApp\\ExamenApisApp\\Models\\Producto.cs",
+              "RelativeToolTip": "ExamenApisApp\\Models\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T01:45:41.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Examen2Context.cs",
+              "DocumentMoniker": "C:\\Web integral\\ExamenApisApp\\ExamenApisApp\\Models\\Examen2Context.cs",
+              "RelativeDocumentMoniker": "ExamenApisApp\\Models\\Examen2Context.cs",
+              "ToolTip": "C:\\Web integral\\ExamenApisApp\\ExamenApisApp\\Models\\Examen2Context.cs",
+              "RelativeToolTip": "ExamenApisApp\\Models\\Examen2Context.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T01:45:02.075Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
